@@ -1,15 +1,14 @@
-# rayanbg.github.io
+# glowcocofat.github.io
 
-## Hello World!
+## So yea
 
-This is my first try at github after my long break.
 
 My Github user page is at: 
-https://github.com/rayanbg/
+https://github.com/glowcocofat/
 
 My Github Pages repo can be found at:  
-https://github.com/rayanbg/rayanbg.github.io/
+https://github.com/glowcocofat/glowcocofat.github.io/
 
 And, soon, you can see my homepage at:
 
-http://rayanbg.github.io/
+http://glowcocofat.github.io/
